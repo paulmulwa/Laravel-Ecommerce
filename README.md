@@ -1,2 +1,2 @@
 # Laravel-Ecommerce
-An Ecommerce in laravell
+An Ecommerce in laravel
